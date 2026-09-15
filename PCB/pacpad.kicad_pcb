@@ -6587,14 +6587,6 @@
 		(net "Net-(D1-DIN)")
 		(uuid "5d422e2f-46a9-4f44-bcfb-692efa651578")
 	)
-	(via
-		(at 161.5 50)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "Net-(D1-DIN)")
-		(uuid "b6f78427-b0cf-4d28-84a8-7b8f0262d1af")
-	)
 	(segment
 		(start 155.6 60.4)
 		(end 156 60)
