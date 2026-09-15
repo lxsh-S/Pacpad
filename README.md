@@ -25,6 +25,7 @@ This case was made in fusion360(I dualbooted win11 for that :))
 
 ## Components used
 - 4x MX-Style switches
-- 4x Keys that hack pad will be sending me 
-
-
+- 4x Black DSA Keys  
+- 1x EC11 Rotatory encoder
+- 1x 0.91 inch OLED display
+- 2x SK6812MINI-E LEDs
