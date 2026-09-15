@@ -15,7 +15,7 @@ I've used the KMK firmware for this macropad as python is way more easier than C
 This is my first ever PCB that I made in Kicad. I changed the design like 4 times lol T_T
 
 PCB:
-<img width="1265" height="1190" alt="image" src="https://github.com/user-attachments/assets/cefca174-4117-4238-9622-c1cc6c27d49a" />
+<img width="1081" height="1011" alt="image" src="https://github.com/user-attachments/assets/3bfadada-b3e4-49d0-acba-a2d6f1222de1" />
 Schematic:
 <img width="1401" height="1193" alt="image" src="https://github.com/user-attachments/assets/84f51506-940f-491e-b894-34e2ef22d891" />
 
