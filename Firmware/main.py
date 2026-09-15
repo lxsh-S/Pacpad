@@ -1,3 +1,5 @@
+# Nothing is currently tested as I dont have the hardware to do that :(
+
 import board
 import busio
 import neopixel
@@ -8,9 +10,7 @@ from kmk.scanners.encoder import RotaryioEncoder
 from kmk.keys import KC
 
 
-# ============================================================
 # PACPAD
-# ============================================================
 #
 # Keys:
 #   SW1 -> D10
@@ -38,9 +38,7 @@ from kmk.keys import KC
 keyboard = KMKKeyboard()
 
 
-# ============================================================
 # 4 KEYS + ENCODER PUSH
-# ============================================================
 # So total as 5 keys 
 keys = KeysScanner(
     pins=[
@@ -55,9 +53,7 @@ keys = KeysScanner(
 )
 
 
-# ============================================================
 # ROTARY ENCODER
-# ============================================================
 
 encoder = RotaryioEncoder(
     pin_a=board.D0,
@@ -84,9 +80,7 @@ keyboard.matrix = [
 ]
 
 
-# ============================================================
 # KEYMAP
-# ============================================================
 
 keyboard.keymap = [
     [
@@ -104,9 +98,7 @@ keyboard.keymap = [
 ]
 
 
-# ============================================================
 # RGB LEDs
-# ============================================================
 
 NUM_LEDS = 2
 
@@ -123,9 +115,8 @@ pixels[1] = (0, 40, 255)
 
 # Not sure of how to change well check on tht later 
 
-# ============================================================
 # OLED
-# ============================================================
+# 
 
 # This requires:
 #
