@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "pacpadv2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -669,7 +669,7 @@
         "uuid": "f4a3dc9d-3954-4143-987a-129041dc4ed1"
       }
     ],
-    "used_designators": "#FLG1-3,R1,D1-6,SW1-6,#PWR1-2,U1-2",
+    "used_designators": "#FLG1-3,R1,D1-6,#PWR1-2,SW1-6,U1-2",
     "variants": []
   },
   "sheets": [
