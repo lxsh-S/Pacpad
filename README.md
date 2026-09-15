@@ -29,3 +29,5 @@ This case was made in fusion360(I dualbooted win11 for that :))
 - 1x EC11 Rotatory encoder
 - 1x 0.91 inch OLED display
 - 2x SK6812MINI-E LEDs
+- 1x Seed Xiao RP2040
+- PCB made from the gerbers in the repo
