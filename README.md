@@ -23,7 +23,7 @@ Schematic:
 This case was made in fusion360(I dualbooted win11 for that :))
 <img width="1920" height="1094" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use) 15-09-2026 19_46_02" src="https://github.com/user-attachments/assets/7e51fe4e-ba86-48e7-a836-3ae4ab539819" />
 
-## Components used
+## BOM
 - 4x MX-Style switches
 - 4x Black DSA Keys  
 - 1x EC11 Rotatory encoder
