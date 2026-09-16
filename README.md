@@ -28,6 +28,7 @@ Top:
 <img width="1087" height="564" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_35_25" src="https://github.com/user-attachments/assets/48e3f989-635a-42e9-9214-b04c3c1e60b5" />
 Bottom:
 <img width="1029" height="504" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_35_05" src="https://github.com/user-attachments/assets/1f9fb81a-377b-4479-bd39-15d65e98c81c" />
+`Note` -> `The hole at the bottom of this design is for a screw that I already have with me (It is to hold the PCB at one place`
 Assembled:
 <img width="1141" height="705" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_34_25" src="https://github.com/user-attachments/assets/d0c0474f-a0f1-4cd7-9fbd-2511bd4d684d" />
 <img width="789" height="423" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_34_35" src="https://github.com/user-attachments/assets/d87f4291-6c74-440f-8ce3-96253ff4a44a" />
