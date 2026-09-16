@@ -18,10 +18,19 @@ PCB:
 <img width="1081" height="1011" alt="image" src="https://github.com/user-attachments/assets/3bfadada-b3e4-49d0-acba-a2d6f1222de1" />
 Schematic:
 <img width="1401" height="1193" alt="image" src="https://github.com/user-attachments/assets/84f51506-940f-491e-b894-34e2ef22d891" />
+3D:
+<img width="1102" height="754" alt="Pacpad (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_06_22" src="https://github.com/user-attachments/assets/780a4d7e-60e4-41eb-879f-0d12729668ab" />
+
 
 ## CAD
-This case was made in fusion360(I dualbooted win11 for that :))
-<img width="1920" height="1094" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use) 15-09-2026 19_46_02" src="https://github.com/user-attachments/assets/7e51fe4e-ba86-48e7-a836-3ae4ab539819" />
+This case was made in fusion360(I dualbooted win11 for that :)) 
+Top:
+<img width="1087" height="564" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_35_25" src="https://github.com/user-attachments/assets/48e3f989-635a-42e9-9214-b04c3c1e60b5" />
+Bottom:
+<img width="1029" height="504" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_35_05" src="https://github.com/user-attachments/assets/1f9fb81a-377b-4479-bd39-15d65e98c81c" />
+Assembled:
+<img width="1141" height="705" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_34_25" src="https://github.com/user-attachments/assets/d0c0474f-a0f1-4cd7-9fbd-2511bd4d684d" />
+<img width="789" height="423" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_34_35" src="https://github.com/user-attachments/assets/d87f4291-6c74-440f-8ce3-96253ff4a44a" />
 
 ## BOM
 - 4x MX-Style switches
