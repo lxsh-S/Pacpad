@@ -30,6 +30,9 @@ This case was made in fusion360(I dualbooted win11 for that :))
 - Bottom: `Note` -> `The hole at the bottom of this design is for a screw that I already have with me (It is to hold the PCB at one place)`
 <img width="1029" height="504" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_35_05" src="https://github.com/user-attachments/assets/1f9fb81a-377b-4479-bd39-15d65e98c81c" />
 
+- Knob: `Used the same as orpheuspad pad`
+<img width="598" height="511" alt="Pacpad_CAD_knurled_knob v12 stl at main · lxsh-S_Pacpad — Mozilla Firefox 17-09-2026 21_33_42" src="https://github.com/user-attachments/assets/d655212a-3228-4bb6-8d27-43fb8e8c0b9f" />
+
 - Assembled:
 <img width="1141" height="705" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_34_25" src="https://github.com/user-attachments/assets/d0c0474f-a0f1-4cd7-9fbd-2511bd4d684d" />
 <img width="789" height="423" alt="Pacpad_ (Atlantix) - Autodesk Fusion Personal (Not for Commercial Use)  16-09-2026 10_34_35" src="https://github.com/user-attachments/assets/d87f4291-6c74-440f-8ce3-96253ff4a44a" />
