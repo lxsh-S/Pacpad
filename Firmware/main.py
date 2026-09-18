@@ -1,5 +1,5 @@
 # Nothing is currently tested as I dont have the hardware to do that :(
-
+import time
 import board
 import busio
 import neopixel
@@ -110,8 +110,68 @@ pixels = neopixel.NeoPixel(
 )
 
 # Initial color
-pixels[0] = (0, 40, 255)
-pixels[1] = (0, 40, 255)
+pixels[0] = (0, 40, 255) #Deep saturated blue
+pixels[1] = (255, 40, 0) #Red
+
+## RAINBOW COLORS (RBG)
+
+def wheel(pos):
+    pos = pos & 255 
+    
+    if pos < 85:
+        return (
+            255 - pos * 3,
+            pos * 3,
+            0,
+        )
+    elif pos < 170:
+        pos -= 85 
+        return (
+            0, 
+            255 - pos * 3,
+            pos * 3,
+        )
+    else:
+        pos -= 170 
+        return (
+            pos * 3,
+            0,
+            255 - pos * 3,
+        )
+
+## NOw we make the RGB wave 
+wave_position = 0 
+last_rgb_update = 0
+
+def update_rgb():
+    global wave_position
+    global last_rgb_update
+
+    now = time.monotonic()
+
+    # Well update close to 30 times per sec 
+    if now - last_rgb_update < 0.03:
+        return
+    last_rgb_update = now 
+
+    for i in range(NUM_LEDS):
+
+        #Offset each LED so they have different colors
+        color_position = (
+            wave_position + i * 100 
+        ) & 255 
+
+        pixels[i] = wheel(color_position)
+
+    pixels.show()
+
+    # move the rainbow
+    wave_position = (wave_position + 3) & 255
+
+#------------
+# KMK RGB HOOK
+keyboard.before_matrix_scan = update_rgb
+    
 
 # Not sure of how to change well check on tht later 
 
@@ -142,7 +202,7 @@ try:
 
     oled.text("PACPAD", 0, 0, 1)
     oled.text("4-Key Macro Pad", 0, 10, 1)
-    oled.text("Encoder: Volume", 0, 20, 1)
+    oled.text("By Lxsh-S", 0, 20, 1)
 
     oled.show()
 
