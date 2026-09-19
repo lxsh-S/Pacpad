@@ -7,7 +7,7 @@ It's a 4-key macro pad with a rotatory encoder and oled display with 2 LEDs, it'
 ## Hardware
 
 | Function            | Pin |
-|---------------------------|
+|---------------------|-----|
 | SW1                 | D10 |
 | SW2                 | D9  |
 | SW3                 | D8  |
@@ -24,6 +24,7 @@ Our OLED display is 128x32 SSD1306, which we are adressing over I2C
 ## Current Keymap
 
 | Input                     | Action          |
+|---------------------------|-----------------|
 | SW1                       | F11(fullscreen) |
 | SW2                       | Previous track  |
 | SW3                       | Play/Pause      |
