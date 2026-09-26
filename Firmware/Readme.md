@@ -33,6 +33,17 @@ Our OLED display is 128x32 SSD1306, which we are adressing over I2C
 | Encoder clockwise         | Vol up          |
 | Encoder Anti-clockwiser   | Vol down        |
 
+## Requirements
+
+- A Seeduino XIAO (or you can also use any other SAMD21/RP2040 boards) with circuit-python installed
+- KMK firmware copied into the `CIRCUITPY/lib/` directory
+- `adafruit_neopixel` library for the LEDs
+- `adafruit_ssd1306` library for OLED
+
+## Things to figure out
+
+- What am I going to display on the OLED screen '_'
+
 ## TODO
 
 - As the code is completely untested on hardware, I'll try to get that done asap!!
